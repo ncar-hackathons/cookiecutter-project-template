@@ -2,6 +2,7 @@
     
     "project_name": "example demo",
     "project_slug": "example-demo",
-    "project_description": "{{ cookiecutter.project_name }}"
+    "project_description": "{{ cookiecutter.project_name }}",
+    "project_title": "{{ cookiecutter.project_name }}"
    
   }
